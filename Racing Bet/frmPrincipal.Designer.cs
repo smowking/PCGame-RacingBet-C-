@@ -750,7 +750,7 @@
             // 
             // btnResetarJogo
             // 
-            this.btnResetarJogo.Location = new System.Drawing.Point(912, 145);
+            this.btnResetarJogo.Location = new System.Drawing.Point(913, 145);
             this.btnResetarJogo.Name = "btnResetarJogo";
             this.btnResetarJogo.Size = new System.Drawing.Size(75, 23);
             this.btnResetarJogo.TabIndex = 123;
