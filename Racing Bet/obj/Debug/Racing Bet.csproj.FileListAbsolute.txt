@@ -1,0 +1,20 @@
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\bin\Debug\Racing Bet.exe.config
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\bin\Debug\Racing Bet.exe
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\bin\Debug\Racing Bet.pdb
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csprojResolveAssemblyReference.cache
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing_Bet.Form1.resources
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing_Bet.Properties.Resources.resources
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csproj.GenerateResource.Cache
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csproj.CoreCompileInputs.cache
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing Bet.exe
+C:\Users\nova\source\repos\Racing Bet\Racing Bet\obj\Debug\Racing Bet.pdb
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing_Bet.frmPrincipal.resources
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing_Bet.Properties.Resources.resources
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csproj.GenerateResource.Cache
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csproj.CoreCompileInputs.cache
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\bin\Debug\Racing Bet.exe.config
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\bin\Debug\Racing Bet.exe
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\bin\Debug\Racing Bet.pdb
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing Bet.exe
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing Bet.pdb
+C:\Users\Apartamento\Documents\Racing Bet\Racing Bet\obj\Debug\Racing Bet.csprojResolveAssemblyReference.cache
